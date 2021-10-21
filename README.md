@@ -39,4 +39,3 @@ This project is licensed under the MIT License.
 
 * Jerome Chenette - for imparting tips, tricks, and wisdom of coding with my cohort
 * My peers - for answering questions, pushing me to excel and supporting this journey
-* Armenuhi Avanesyan - for being the best tutor throughout this journey, helping to debug as needed
