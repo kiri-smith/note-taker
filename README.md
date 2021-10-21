@@ -18,10 +18,11 @@ This note-taker allows the user to create new notes, with a title and text conte
 * [node.js](https://nodejs.org/en/) - to run the app commands in the terminal
 * [Git](https://git-scm.com/) - to track changes and push commits
 * [GitHub](github.com) - to host the repository and deploy with GitHub pages
+* [Heroku](https://devcenter.heroku.com/) - to host the repository and deploy with Heroku
 
 ## Deployed Link
 
-* [https://kiri-smith.github.io/note-taker/](#)
+* [https://ksmith-notetaker.herokuapp.com/](#)
 
 ## Author
 
