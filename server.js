@@ -29,3 +29,12 @@ app.post("/api/notes", async (req, res) => {
     fs.writeFile(path.join(__dirname, "db", "db.json"), JSON.stringify(notesJSON, null, 2));
     res.json(newNote);
 });
+
+app.delete("/api/notes/:id", async (req, res) => {
+    const notes = await fs.readFile(path.join(__dirname, "db", "db.json"), { encoding: "utf-8" });
+    const notesJSON = JSON.parse(notes).filter((note) => {
+        return note.id !== req.params.id;
+    });
+    fs.writeFile(path.join(__dirname, "db", "db.json"), JSON.stringify(notesJSON, null, 2));
+    res.json(notesJSON);
+});
