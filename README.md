@@ -6,7 +6,7 @@ This note-taker allows the user to create new notes, with a title and text conte
 
 ## Snapshot
 
-<img src="assets\Snip.JPG" alt="Screenshot of Note-Taker">
+<img src="public\assets\Snip.JPG" alt="Screenshot of Note-Taker">
 
 
 ## Built With
