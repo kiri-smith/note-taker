@@ -8,9 +8,6 @@ This note-taker allows the user to create new notes, with a title and text conte
 
 <img src="assets\Snip5.JPG" alt="Screenshot of NewIndex.html based on user input">
 
-## Demo Video
-
-* [https://watch.screencastify.com/v/PRNTtBrzbZbeT9GIMfoW](#)
 
 ## Built With
 
@@ -24,7 +21,7 @@ This note-taker allows the user to create new notes, with a title and text conte
 
 ## Deployed Link
 
-* [https://kiri-smith.github.io/team-profile-generator/](#)
+* [https://kiri-smith.github.io/note-taker/](#)
 
 ## Author
 
