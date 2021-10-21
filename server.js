@@ -38,3 +38,8 @@ app.delete("/api/notes/:id", async (req, res) => {
     fs.writeFile(path.join(__dirname, "db", "db.json"), JSON.stringify(notesJSON, null, 2));
     res.json(notesJSON);
 });
+
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "public", "index.html"));
+}
+)
