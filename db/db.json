@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Class 10/20",
+    "text": "Notes from class can be typed here!",
+    "id": "bdf5c806-7dd1-4fd3-886f-d12856058b14"
+  },
+  {
+    "title": "Class 10/19",
+    "text": "Class from this class are saved here!",
+    "id": "398b6eda-6714-419c-b568-a7d0ce84ccdf"
+  },
+  {
+    "title": "Class 10/18",
+    "text": "Class notes are saved here!",
+    "id": "c84b9ea7-d8f2-477f-86d0-30e71754188c"
+  }
+]
